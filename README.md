@@ -1,4 +1,4 @@
-# Advent of Code 2025
+# ⭐ Advent of Code 2025 ⭐
 
 Dies ist eine Sammlung von Lösungen zu den Rätseln des Advent of Code 2025. (https://adventofcode.com/)
 
