@@ -56,3 +56,4 @@ dkms.conf
 
 # all input files
 *.txt
+.vscode/settings.json

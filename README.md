@@ -8,6 +8,7 @@ Dies ist eine Sammlung von Lösungen zu den Rätseln des Advent of Code 2025. (h
 - Tag 2 ⭐ abgeschlossen am 02.12.2025 - Lösung in C `/day02`
 - Tag 3 ⭐ abgeschlossen am 03.12.2025 - Lösung in C `/day03`
 - Tag 4 ⭐ abgeschlossen am 04.12.2025 - Lösung in C `/day04`
+- Tag 5 ⭐ abgeschlossen am 05-06.12.2025 - Lösung in C `/day05`
 
 ### Anmerkung
 
